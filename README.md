@@ -8,6 +8,14 @@
  <img alt="YOUR-ALT-TEXT" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1| html           |
+|     2| IoT          |
+|     3|               |
+
+
 <!--
 **tadakazuhnt/tadakazuhnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
