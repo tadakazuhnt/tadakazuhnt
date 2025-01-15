@@ -1,4 +1,7 @@
-## Hi there 👋
+### about me 😇
+
+- 🌱 I’m currently learning git
+
 
 <!--
 **tadakazuhnt/tadakazuhnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
